@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F74815&background=32FFB203&random=false&width=435&lines=Ol%C3%A1+Pessoal+!;Sejam+bem+vindos+)](https://git.io/typing-svg):smile:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F74815&background=32FFB203&random=false&width=435&lines=Ol%C3%A1+Pessoal+!;Sejam+bem+vindos+)](https://git.io/typing-svg)
 
 - Sou uma Analista de QA Júnior com uma experiência de 4 meses adquirida através de um Bootcamp intensivo. Tenho paixão por garantir a qualidade e a funcionalidade dos produtos de software, assegurando que eles atendam aos requisitos dos usuários e do negócio. Aqui, você encontrará alguns dos projetos em que trabalhei e ferramentas que utilizei durante minha jornada de aprendizado. Com uma experiência de 4 meses adquirida através de um Bootcamp intensivo. Tenho paixão por garantir a qualidade e a funcionalidade dos produtos de software, assegurando que eles atendam aos requisitos dos usuários e do negócio. Aqui, você encontrará alguns dos projetos em que trabalhei e ferramentas que utilizei durante minha jornada de aprendizado.
 
