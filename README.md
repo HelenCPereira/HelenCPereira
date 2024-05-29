@@ -1,6 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&size=25&pause=1000&random=false&width=435&lines=Ol%C3%A1+Pessoal!+Sejam+Bem+vindos+!)](https://git.io/typing-svg)
 
-Sou uma Analista de QA Júnior com uma experiência de 4 meses adquirida através de um Bootcamp intensivo. Tenho paixão por garantir a qualidade e a funcionalidade dos produtos de software, assegurando que eles atendam aos requisitos dos usuários e do negócio. Aqui, você encontrará alguns dos projetos em que trabalhei e ferramentas que utilizei durante minha jornada de aprendizado. Com uma experiência de 4 meses adquirida através de um Bootcamp intensivo. Tenho paixão por garantir a qualidade e a funcionalidade dos produtos de software, assegurando que eles atendam aos requisitos dos usuários e do negócio. Aqui, você encontrará alguns dos projetos em que trabalhei e ferramentas que utilizei durante minha jornada de aprendizado.
+Profissional dedicada e comunicativa com experiência como QA júnior na Young-IT Consulting. Possuo
+conhecimentos em design de testes, testes web, testes de API (Postman), SQL/bases de dados, metodologia Agile
+SCRUM e bug tracking (JIRA).
+Atuei em um projeto de sistema de pagamento, executando testes de unidade, testes de integração, testes de
+sistema e testes de aceitação. Realizei testes funcionais, testes não funcionais, testes de segurança e testes de
+conformidade, garantindo a alta qualidade e segurança do sistema.
+Durante minha atuação, colaborei diretamente com equipes de desenvolvimento para assegurar a qualidade dos
+produtos, resultando na redução de bugs e na melhoria da eficiência dos processos de teste.
+Realizei projetos avaliados e aprovados com excelência, destacando minha capacidade de atenção aos detalhes e
+habilidades de comunicação. Sou certificada pela Scrum Alliance como Product Owner, complementando minha
+formação e compreensão dos processos ágeis.
+Reconhecida por minha proatividade e comprometimento com o aprendizado contínuo, estou entusiasmada
+para enfrentar novos desafios e contribuir positivamente para o sucesso dos projetos em que estiver envolvida.
+Possuo autorização de trabalho em Portuga
 
   **Habilidades adquirida no bootcamp** Noções Básicas de Teste: Compreensão dos fundamentos de testes de software, incluindo tipos de testes, ciclo de vida de testes, e boas práticas. Design de Teste: Habilidade em criar casos de teste eficientes e eficazes para diferentes cenários de aplicação. Teste de Aplicativos Web: Experiência prática na validação de funcionalidades, usabilidade e segurança de aplicativos web. Teste de API: Teste de APIs usando ferramentas como Postman para garantir que os endpoints funcionem conforme esperado.
 
