@@ -17,7 +17,8 @@ Possuo autorização de trabalho em Portuga
 
   **Habilidades adquirida no bootcamp** Noções Básicas de Teste: Compreensão dos fundamentos de testes de software, incluindo tipos de testes, ciclo de vida de testes, e boas práticas. Design de Teste: Habilidade em criar casos de teste eficientes e eficazes para diferentes cenários de aplicação. Teste de Aplicativos Web: Experiência prática na validação de funcionalidades, usabilidade e segurança de aplicativos web. Teste de API: Teste de APIs usando ferramentas como Postman para garantir que os endpoints funcionem conforme esperado.
 
-  **Ferramentas Utilizadas nos projetos** **Postman:** Utilizado para testar e validar APIs RESTful. **Figma:** Ferramenta de design para criar e revisar protótipos e wireframes. **SQL:** Noções básicas de banco de dados para escrever consultas simples e validar dados. **Jira:** Utilizado para rastreamento de bugs e gerenciamento de projetos. **Excel:** Uso avançado para análise de dados e criação de relatórios. PostgreSQL: Experiência com este sistema de gerenciamento de banco de dados relacional. **DevTods:** Ferramenta para desenvolvimento e colaboração de projetos de software**
+  **Ferramentas Utilizadas nos projetos** 
+  **Postman:** Utilizado para testar e validar APIs RESTful. **Figma:** Ferramenta de design para criar e revisar protótipos e wireframes. **SQL:** Noções básicas de banco de dados para escrever consultas simples e validar dados. **Jira:** Utilizado para rastreamento de bugs e gerenciamento de projetos. **Excel:** Uso avançado para análise de dados e criação de relatórios. PostgreSQL: Experiência com este sistema de gerenciamento de banco de dados relacional. **DevTods:** Ferramenta para desenvolvimento e colaboração de projetos de software**
 
 - 📫 Contatos **helenfernandacl@gmail.com**
 
