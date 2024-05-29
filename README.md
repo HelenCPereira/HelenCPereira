@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&size=25&pause=1000&random=false&width=435&lines=Ol%C3%A1+Pessoal!+Sejam+Bem+vindos+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&size=25&pause=1000&random=false&width=435&lines=Ol%C3%A1+pessoal!+Sejam+bem+vindos+!)](https://git.io/typing-svg)
 
+<<<<<<< HEAD
 Profissional dedicada e comunicativa com experiência como QA júnior na Young-IT Consulting. Possuo
 conhecimentos em design de testes, testes web, testes de API (Postman), SQL/bases de dados, metodologia Agile
 SCRUM e bug tracking (JIRA).
@@ -19,6 +20,13 @@ Possuo autorização de trabalho em Portuga
 
   **Ferramentas Utilizadas nos projetos** 
   **Postman:** Utilizado para testar e validar APIs RESTful. **Figma:** Ferramenta de design para criar e revisar protótipos e wireframes. **SQL:** Noções básicas de banco de dados para escrever consultas simples e validar dados. **Jira:** Utilizado para rastreamento de bugs e gerenciamento de projetos. **Excel:** Uso avançado para análise de dados e criação de relatórios. PostgreSQL: Experiência com este sistema de gerenciamento de banco de dados relacional. **DevTods:** Ferramenta para desenvolvimento e colaboração de projetos de software**
+=======
+:sunflower: Sou uma Analista de QA Júnior com uma experiência de 4 meses adquirida através de um Bootcamp intensivo. Tenho paixão por garantir a qualidade e a funcionalidade dos produtos de software, assegurando que eles atendam aos requisitos dos usuários e do negócio. Aqui, você encontrará alguns dos projetos em que trabalhei e ferramentas que utilizei durante minha jornada de aprendizado. 
+
+  **Habilidades adquirida no bootcamp** Noções Básicas de Teste: Compreensão dos fundamentos de testes de software, incluindo tipos de testes, ciclo de vida de testes, e boas práticas. Design de Teste: Habilidade em criar casos de teste eficientes e eficazes para diferentes cenários de aplicação. Teste de Aplicativos Web: Experiência prática na validação de funcionalidades, usabilidade e segurança de aplicativos web. Teste de API: Teste de APIs usando ferramentas como Postman para garantir que os endpoints funcionem conforme esperado.
+
+:wrench: **Ferramentas Utilizadas nos projetos** **Postman:** Utilizado para testar e validar APIs RESTful. **Figma:** Ferramenta de design para criar e revisar protótipos e wireframes. **SQL:** Noções básicas de banco de dados para escrever consultas simples e validar dados. **Jira:** Utilizado para rastreamento de bugs e gerenciamento de projetos. **Excel:** Uso avançado para análise de dados e criação de relatórios. PostgreSQL: Experiência com este sistema de gerenciamento de banco de dados relacional. **DevTods:** Ferramenta para desenvolvimento e colaboração de projetos de software**
+>>>>>>> a0c0ff38ed629f72a81f9ae468d791e216dac91e
 
 - 📫 Contatos **helenfernandacl@gmail.com**
 
